@@ -1,0 +1,1 @@
+const t={id:"id",name:"name",plugin_id:"plugin_id",plugin__plugin_name:"plugin_name",config:"config",min_amount:"min_amount",max_amount:"max_amount",priority:"priority",status:"status","status 0":"status 0","status 1":"status 1",remark:"remark",create_time:"create_time",update_time:"update_time","quick Search Fields":"id"};export{t as default};

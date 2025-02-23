@@ -1,0 +1,1 @@
+import{c as t}from"./index-B0iOz79E.js";function r(e){return t({url:"/admin/Plugins/getConfig",method:"post",data:{id:e}})}function n(e){return t({url:"/api/ajax/getMerchantQrcode",method:"get",params:{uuid:e}})}function o(e){return t({url:"/api/Pay/createPay",method:"post",data:e,headers:{"Pay-Type-H5":e.uuid}})}export{r as a,o as c,n as g};

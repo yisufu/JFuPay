@@ -1,0 +1,17 @@
+export default {
+    id: 'ID',
+    name: '通道名称',
+    plugin_id: '关联插件ID',
+    plugin__plugin_name: '插件名称',
+    config: '支付参数配置信息',
+    min_amount: '最小支付金额',
+    max_amount: '最大支付金额',
+    priority: '优先级',
+    status: '状态',
+    'status 0': '禁用',
+    'status 1': '启用',
+    remark: '备注说明',
+    create_time: '创建时间',
+    update_time: '更新时间',
+    'quick Search Fields': 'ID',
+}
